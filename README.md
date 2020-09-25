@@ -20,6 +20,9 @@ $route[$lang.'/armory/guild/(:num)'] = 'armory/guild/$2';
 
 - Disfruta tu modulo
 - para visualizarlo ingresa a `http://tudominio.tdl/armory`
+# Live Demo
+- [Zuldazar Realms Armory](https://zuldazar-realms.tk/armory "Zuldazar Realms")
+
 # Capturas de Pantalla
 [![Captura1](https://raw.githubusercontent.com/AsmodeosNetworkCO/Module_BlizzCMS-Armory/master/screenshots/screenshot-1.JPG "Captura1")]
 [![Captura2](https://raw.githubusercontent.com/AsmodeosNetworkCO/Module_BlizzCMS-Armory/master/screenshots/screenshot-2.JPG "Captura2")]
